@@ -18,7 +18,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="36" height="36" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://open.spotify.com/your_spotify_link_here](https://open.spotify.com/artist/3YgXgMDIEt5S4sXRszbdlh?si=643E1VjgTmGo9OigkHheiA" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/track/5Zgufw3jqAhgmgMgtojDsr?si=3cc196c469b94154" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify" width="36" height="36" />
   </a>
 </p>
