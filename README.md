@@ -1,4 +1,4 @@
-<h2 align="center">Stanislav — Software Engineering student at King Daniel University🎓</h2>
+<h2 align="center">Stanislav — Software Engineering student at King Daniel University 🎓</h2>
 
 <p align="center">
   Front-end developer passionate about clean UIs and efficient code.<br>
@@ -22,7 +22,6 @@
 
 ### 🛠️ Languages & Tools:
 <p align="center">
-
   <!-- 🌐 Front-end -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -32,7 +31,7 @@
 
   <!-- 🐍 Python & ML -->
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="[https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNUbZtZ5yWxWb7SPe82hFIve1AirK5aBQpw&s)" alt="Flask" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
 
   <!-- ⚙️ Other Tools -->
@@ -40,5 +39,4 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-
 </p>
